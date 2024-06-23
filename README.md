@@ -1,19 +1,19 @@
-
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>   
-</head>
-<body>
-    <a href="https://www.linkedin.com/in/rubensgtavares/" class="link-botao">
+  <a href="https://www.linkedin.com/in/rubensgtavares/" class="link-botao">
         <img src="https://img.shields.io/badge/-Rubens%20Gabriel-blue?style=flat-square&logo=linkedin&logoColor=white" alt="Botão Imagem">
     </a><br>
-  <h>Olá, eu sou o Rubens Gabriel, graduando na UNIVESP em engenharia da computação.<br>
-Sejam bem-vindos ao meu GitHub!<br>
-    📊 Analise de Dados<br>
-    <br>
-Hello, my name is Rubens Gabriel. I am a graduating Computer Engineering student at UNIVESP.<br>
-Welcome to my Github! Profile</h><br>
-📊 Data Analysis 
-  
-</body>
-</html>
+
+    
+#### _Olá, eu sou o Rubens Gabriel, graduando na UNIVESP em engenharia da computação._
+
+_Sejam bem-vindos ao meu GitHub!_<br>
+_📊 Analise de Dados_<br>
+
+#### _Hello, my name is Rubens Gabriel. I am a graduating Computer Engineering student at UNIVESP._
+
+_Welcome to my Github Profile!_<br>
+_📊 Data Analysis_
+
+<picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=rubensgtavares&show_icons=true&theme=dracula" />
+</picture>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubensgtavares&show_icons=true&layout=compact&theme=dracula"/>
