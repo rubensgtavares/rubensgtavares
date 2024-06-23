@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**rubensgtavares/rubensgtavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>   
+</head>
+<body>
+    <a href="https://www.linkedin.com/in/rubensgtavares/" class="link-botao">
+        <img src="https://img.shields.io/badge/-Rubens%20Gabriel-blue?style=flat-square&logo=linkedin&logoColor=white" alt="Botão Imagem">
+    </a><br>
+  <h>Olá, eu sou o Rubens Gabriel, graduando na UNIVESP em engenharia da computação.<br>
+Sejam bem-vindos ao meu GitHub!<br>
+    📊 Analise de Dados<br>
+    <br>
+Hello, my name is Rubens Gabriel. I am a graduating Computer Engineering student at UNIVESP.<br>
+Welcome to my Github! Profile</h><br>
+📊 Data Analysis 
+  
+</body>
+</html>
