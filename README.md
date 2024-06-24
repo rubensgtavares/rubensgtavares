@@ -18,8 +18,7 @@ _📊 Data Analysis_
 ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.
 
 <picture>
-  <img src="https://github-readme-stats.vercel.app/api?username=rubensgtavares&show_icons=true&theme=shadow_green" />![Sem título-1](https://github.com/rubensgtavares/rubensgtavares/assets/135617827/ab1f02de-08ee-4c2f-b5ea-85732ccc8977)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=rubensgtavares&show_icons=true&theme=shadow_green" />
 </picture>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubensgtavares&show_icons=true&layout=compact&theme=shadow_green"/>
 
