@@ -20,7 +20,13 @@ _📊 Data Analysis_
 <picture>
   <img src="https://github-readme-stats.vercel.app/api?username=rubensgtavares&show_icons=true&theme=shadow_green" />
 </picture>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubensgtavares&show_icons=true&layout=compact&theme=shadow_green"/>
+
+
+<picture>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubensgtavares&show_icons=true&layout=compact&theme=shadow_green"/>
+</picture>
+
+
 
 ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.
 
