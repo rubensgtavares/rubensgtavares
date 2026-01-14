@@ -1,26 +1,37 @@
-  <a href="https://www.linkedin.com/in/rubensgtavares/" class="link-botao">
-        <img src="https://img.shields.io/badge/-Rubens%20Gabriel-blue?style=flat-square&logo=linkedin&logoColor=white" alt="Botão Imagem">
-    </a><br>
+# Rubens Gabriel aqui 👋
 
-    
-#### _Olá, eu sou o Rubens Gabriel, graduando na UNIVESP em engenharia da computação._
+Sou estudante de **Engenharia da Computação** e **Tecnologia da Informação**, com foco em **Desenvolvimento Web** e **Análise de Dados**.  
+Atualmente desenvolvo projetos full stack e estudos em dados, buscando consolidar um portfólio sólido e aplicável ao mercado.
 
-_Sejam bem-vindos ao meu GitHub!_<br>
-_📊 Analise de Dados_<br>
+- 💻 Estagiário em TI (Polo UNIVESP)
+- 📊 Estudante de Análise de Dados (EBAC)
+- 🌐 Desenvolvedor Web (Next.js, React, Node)
+- 📚 Sempre explorando boas práticas, arquitetura e visualização de dados
 
-#### _Hello, my name is Rubens Gabriel. I am a graduating Computer Engineering student at UNIVESP._
+### Atualmente mais focado em:
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,postgres,git" />
+</p>
 
-_Welcome to my Github Profile!_<br>
-_📊 Data Analysis_
+---
 
-<br>
+### 🔗 Você também me encontra em:
+<p>
+  <a href="https://www.linkedin.com/in/rubensgabrieltavares" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/rubensgtavares" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/rubensgabrieltavares" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" />
+  </a>
+</p>
 
-ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.
+---
 
-<picture>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubensgtavares&show_icons=true&layout=compact&theme=shadow_green&cache_seconds=86400" />
-</picture>
-
-
-ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.ılı.lıllılı.ıllı.
+### 📌 Alguns projetos e estudos:
+- 📊 Análise exploratória de dados e visualizações (Python, Pandas, Seaborn)
+- 🌐 Aplicações web full stack com Next.js, TypeScript e Prisma
+- 📈 Dashboards e pipelines de dados para estudos e portfólio
 
